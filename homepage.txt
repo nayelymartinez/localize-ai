@@ -1,0 +1,31 @@
+Immigrante
+Inform your loved ones.
+Immigrante
+An app for undocumented immigrants in case of an emergency
+AN APP FOR PIECE OF MIND
+Securely keep your loved ones safe and informed.
+Many undocumented immigrants face the daily threat of deportation and fear that they will be separated from their loved ones - spouses, children, elderly family members - without warning. 
+​
+Immigrante is a mobile app that allows users to create contingency and communication plans. It allows users to create a family preparedness plan, share location, and alert contacts in case of an emergency.
+App Features
+Emergency Alert
+Activate an emergency alert to notify pre-selected contacts that you may have been detained.
+Share Location
+Share your location as soon as you tap the emergency button to ensure loved ones can quickly locate which processing center you are sent to
+Share Information
+Share access to completed forms and household instructions with trusted contacts  immediately upon activating an emergency alert.
+Emergency Alert
+Fill out emergency household information, caregiver forms, legal contacts, and medical records (e.g. family allergies, medications) for your loved ones to have at the ready.
+PLANNING SYSTEM
+Keep loved ones up to date.
+Fill out emergency household information, important legal forms, and medical records (e.g. family allergies, medications) to share with loves ones to make it easy to find all the information they need in one place.
+Available in multiple languages
+Immigrante is available in over five languages, including: Spanish, English, Hindi, Filipino, and Vietnamese (Mandarin coming soon).
+An app for peace of mind, for you and your loved ones.
+Explore our FAQ to learn more.
+Send Us Feedback
+Thanks for submitting!
+FAQ
+GitHub Repo
+Licensed under Apache License 2.0.
+© 2021-2023 by Nayely Martinez. 
