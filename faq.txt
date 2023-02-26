@@ -1,0 +1,37 @@
+Immigrante
+F​AQ
+Frequently asked questions
+Who can benefit from this app?
+This app is intended for families of mixed-status or for undocumented immigrants who want a safe, immediate way to inform family members they've been detained, share critical information that can help your family locate you and provide backup plans (e.g. defining caregivers legally allowed to pick up your children from school).
+Is the app free?
+Yes, Immigrante is and always will be free.
+What does the emergency button do?
+Lorem ipsum.
+What features does the app currently support?
+The full list of features the app supports includes:
+Emergency alert feature that automatically sends out alerts (text, email, or phone call) and information to all contacts you've defined under the 'Notify' tab
+Share household information (child, spouse, and legal representative info) with selected contacts under the 'Plan' tab
+Fill out applicable legal forms (e.g. Caregiver's Authorization Affidavit) automatically generated for you based on the U.S. state your loved ones currently reside in. The app can automatically send a copy of these when the emergency alert button is triggered.
+Store important documents (e.g. marriage license, medication list, health insurance card) for quick access.
+Multi-language support: English, Spanish, Hindi, Filipino, and Vietnamese
+What languages does Immigrante currently support?
+Immigrante is available in over five languages, including: Spanish, English, Hindi, Filipino, and Vietnamese. We will be adding Mandarin language support in early 2024.
+Will my data be secure?
+Yes. Data security is one of our top priorities, as the app handles highly sensitive health, contact, and location data that can expose immigrants to additional risk if that app data is breached. 
+To ensure data is fully safe, any data you enter in the app is securely encrypted using industry-standard AES 256  cryptographic protocols. By default, all data within the app is encrypted in use/in memory, where all data temporarily stored in application memory is encrypted before it is sent/saved. 
+We will never share, use, or sell your data to any third-parties.
+Why is this app important?
+More than 10 million U.S. residents live in mixed-status households, defined as families in which one or more family member is a U.S. citizen or permanent resident while some are undocumented.
+A random police checkpoint, home visit, or worksite immigration raid can make life come crashing down for entire families. This can be true in both sanctuary cities and in areas where immigrants receive even less protection. 
+In fact, only eighteen U.S. states allow undocumented immigrants to apply for driver's licenses. This means that millions of undocumented immigrants live in states where driving anywhere - dropping off and picking up your kids from school each day, commuting to your daily job - means exposing yourself to sudden detainment and possible deportation. A simple broken tail light is enough for police to pull you over, and for a routine police stop to turn into a deportation, permanently separating you from your children, your spouse, and the life you've known.
+Nothing can prevent or ease the absolute emotional heartbreak this kind of separation would unleash on any family, mixed-status or otherwise. The U.S. immigration system is broken and no feasible pathway to citizenship exists for millions of undocumented immigrants who don't have the privilege to wait in their home countries (often due to economic or refugee crises) or who were not able to secure visas before entry. 
+While we advocate and agitate for comprehensive immigration reform, preparing families for the logistical challenges of separation is one of the few areas that can be proactively tackled. This is where Immigrante comes in - the app allows you to enable a family preparedness plan and share critical information out to family members if the worst case scenario happens.
+Why is the app only available on Android?
+Based on research, we believe undocumented immigrants choose to use Android more often than iOS as their phone OS. We plan to release an iOS version in the near future.
+Who created this app?
+The Immigrante app was designed and created by Nayely Martinez. Please feel free to contact using the button below.
+Contact
+FAQ
+GitHub Repo
+Licensed under Apache License 2.0.
+© 2021-2023 by Nayely Martinez. 
